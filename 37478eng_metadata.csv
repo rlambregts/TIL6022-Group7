@@ -1,0 +1,784 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Aviation; monthly figures of Dutch airports";"Monthly figures on aviation";"37478eng";"Data on flight movements, passengers, cargo and mail
+at Dutch airports";"2023-09-29T02:00:00";"Update";"";"en";"CBS";"Monthly";"1997 - 2023 augustus";"
+Data on flight movements, passengers, cargo and mail at Dutch airports.
+
+Summary of the contents of the EU figure in this publication:
+The composition of the European Union (EU-15) until 2004: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, The Netherlands, Portugal, Spain, Sweden and United Kingdom.
+In 2005 the European Union (EU-25) expanded with: Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia.
+In 2007 Bulgaria and Romania have been added (EU-27).
+In 2014 Croatia was added (EU-28).
+As of February 2020 the United Kingdom has left the European Union.
+
+Data available from:
+Annual figures available from 1997; monthly figures available from January 1999. 
+
+Status of the figures:
+The figures are final up to and including 2021, 2022 and for the current year are provisional.
+
+Up to and including December 2020 the figures of EU countries include data for the UK. This to guarantee the comparability of the data. As of January 2021 data for the UK are included in the figures of /""/other Europe/""/.
+
+As of 8 November 2022 the figures for Eindhoven airport for the reporting period April, May and June 2022 have been adjusted as a result of additional information. As a result, the marginal totals for the months of April, May and June 2022 have also been adjusted.
+
+Due to renovation work on the runway at Maastricht Aachen Airport, there was no air traffic at this airport from 8 May 2023 to 30 June 2023.
+
+Changes as of 29 September 2023:
+The figures for August 2023 have been added. 
+
+When will figures become available?
+New monthly figures are typically 1 month after the reporting period (calendar month) published.
+
+";"
+CONTENTS
+
+1. General information
+2. Definitions and explanation of symbols 
+3. Links to relevant tables and articles
+4. Sources and methods
+5. Further information
+
+
+1. GENERAL INFORMATION
+
+Data on flight movements, passengers, cargo and mail at Dutch airports.
+
+Summary of the contents of the EU figure in this publication:
+The composition of the European Union (EU-15) until 2004: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, The Netherlands, Portugal, Spain, Sweden and United Kingdom.
+In 2005 the European Union (EU-25) expanded with: Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia.
+In 2007 Bulgaria and Romania have been added (EU-27).
+In 2014 Croatia was added (EU-28).
+As of February 2020 the United Kingdom has left the European Union.
+
+Data available from:
+Annual figures available from 1997; monthly figures available from January 1999. 
+
+Status of the figures:
+The figures are final up to and including 2021, 2022 and for the current year are provisional.
+
+Up to and including December 2020 the figures of EU countries include data for the UK. This to guarantee the comparability of the data. As of January 2021 data for the UK are included in the figures of /""/other Europe/""/.
+
+As of 8 November 2022 the figures for Eindhoven airport for the reporting period April, May and June 2022 have been adjusted as a result of additional information. As a result, the marginal totals for the months of April, May and June 2022 have also been adjusted.
+
+Due to renovation work on the runway at Maastricht Aachen Airport, there was no air traffic at this airport from 8 May 2023 to 30 June 2023.
+
+Changes as of 29 September 2023:
+The figures for August 2023 have been added. 
+
+When will figures become available?
+New monthly figures are typically 1 month after the reporting period (calendar month) published.
+
+
+2. DEFINITIONS AND EXPLANATION OF SYMBOLS
+
+Definitions:
+
+Aircraft movements
+The sum of all landings and take-offs.
+
+Cross-country flights
+A cross-country flight takes off at one airport and lands at another.
+
+Local flights                                            
+A local flight takes off and lands at the same airport.
+
+Commercial air traffic 
+All commercial air traffic by airlines transporting passengers, cargo and mail for remuneration and for hire. Such flights can be classified as follows: 
+ - Scheduled flights:
+Commercial cross-country flights along fixed routes and according to fixed timetables.
+ - Non-scheduled flights
+Basically irregular commercial cross-country flights, e.g. charter flights; taxi flights however are excluded.
+
+Non-commercial air traffic
+Private flights (e.g. businessmen in private aircraft), instruction and training flights, government flights, etc.
+
+Passengers
+Transport of passengers in commercial air traffic. Also included are persons employed by airlines and passengers travelling on free tickets.
+Transit passengers (arriving and departing on the same aircraft) and passengers on taxi flights are not included.
+
+Cargo transport by air
+All transport of cargo by air, excluding mail and luggage.
+
+Airport (country) of departure and arrival (loading and unloading)
+Origin and destination of the passengers is based on the 'flight coupons', which state the airport (country) of origin and destination of the aircraft. 'Load sheets' provide information on the airports where cargo is loaded or unloaded.
+
+Explanation of symbols:
+
+Empty cell	: figure not applicable
+. 		: figure is unknown, insufficiently reliable or confidential
+*		: provisional figure 
+**		: revised provisional figure
+
+In the case of rounding, it is possible totals do not exactly correspond to the sum of the aggregate numbers.
+
+
+3. LINKS TO RELEVANT TABLES AND ARTICLES
+
+More information can be found in the theme <a href='https://www.cbs.nl/en-gb/society/traffic-and-transport'>Traffic and transport</a>.
+
+
+4. SOURCES AND METHODS
+
+Basic material:
+
+Take-offs and landings:
+Information regarding take-offs and landings is based on the so-called 'Airport records', dispatched monthly to Statistics Netherlands by civil airport authorities.
+
+Transport by air:
+Information is provided by airport authorities to Statistics Netherlands and based on 'flight coupons' (transport of passengers) and 'load sheets' (transport of cargo), or similar documents providing information on transport by air.
+
+Method: based on complete counts
+Population: Dutch airports with commercial air traffic
+Raising: not applicable
+Accuracy: high
+Reliability and comparability in time: high
+Source(s) used (outside Statistics Netherlands): none
+
+
+5. FURTHER INFORMATION
+
+<a href='https://www.cbs.nl/en-gb/about-us/contact/infoservice'>Infoservice</a>
+
+</a>Copyright (c) Statistics Netherlands, The Hague/Heerlen
+Reproduction is permitted, provided Statistics Netherlands is quoted as the source.
+";"ts=1695802636688&graphtype=Table&r=Airports,Periods&k=Topics";"$filter=((Periods eq '2019JJ00') or (Periods eq '2020JJ00') or (Periods eq '2021KW01') or (Periods eq '2021KW02') or (Periods eq '2021KW03') or (Periods eq '2021KW04') or (Periods eq '2021JJ00') or (Periods eq '2022MM01') or (Periods eq '2022MM02') or (Periods eq '2022MM03') or (Periods eq '2022KW01') or (Periods eq '2022MM04') or (Periods eq '2022MM05') or (Periods eq '2022MM06') or (Periods eq '2022KW02') or (Periods eq '2022MM07') or (Periods eq '2022MM08') or (Periods eq '2022MM09') or (Periods eq '2022KW03') or (Periods eq '2022MM10') or (Periods eq '2022MM11') or (Periods eq '2022MM12') or (Periods eq '2022KW04') or (Periods eq '2022JJ00') or (Periods eq '2023MM01') or (Periods eq '2023MM02') or (Periods eq '2023MM03') or (Periods eq '2023KW01') or (Periods eq '2023MM04') or (Periods eq '2023MM05') or (Periods eq '2023MM06') or (Periods eq '2023KW02') or (Periods eq '2023MM07') or (Periods eq '2023MM08'))&$select=Airports, Periods, CrossCountryFlights_1, LocalFlights_2, TotalFlights_3, Scheduled_4, TotalPassengers_12, TotalCargo_43, TotalMail_74";"Table,Bar,Line";"Regular";"CBS.";"2023-09-29T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Airports";"Airports";;;;;;
+"1";"1";;"TimeDimension";"Periods";"Periods";;"true";;;;
+"2";;;"TopicGroup";"";"Aircraft movements";"Take-offs and landings:
+Information concerning take-offs and landings is based on the so-called
+'airport records' dispatched monthly to Statistics Netherlands by civil
+airport authorities.
+The number of aircraft movements is the sum of all take-offs and
+landings together.";;;;;
+"3";"2";"2";"Topic";"CrossCountryFlights_1";"Cross-country flights";"The number of take-offs and landings in the category 'cross-country
+flights'; a cross-country flight takes off at one airport and lands at
+another.";;"Double";"number";"0";"Zero"
+"4";"3";"2";"Topic";"LocalFlights_2";"Local flights";"The number of take-offs and landings in the category 'local flights';
+a local flight takes off and lands at the same airport.";;"Double";"number";"0";"Zero"
+"5";;;"TopicGroup";"";"Commercial air traffic";"Commercial air traffic:
+All commercial air traffic by airlines transporting passengers, cargo and
+mail for remuneration and for hire. Such flights can be classified as
+follows:
+ - Scheduled flights:
+Commercial cross-country flights along fixed routes and according to fixed
+timetables.
+ - Non-scheduled flights:
+Basically irregular commercial cross-country flights, e.g. charter
+flights; taxi flights however are excluded.";;;;;
+"6";;"5";"TopicGroup";"";"Flights";"The total of all arrivals and departures in commercial air traffic.
+Flights can be classified as follows:
+ - Scheduled flights:
+Commercial cross-country flights along fixed routes and according to fixed
+timetables.
+ - Non-scheduled flights:
+Basically irregular commercial cross-country flights, e.g. charter
+flights; taxi flights however are excluded.";;;;;
+"7";;"6";"TopicGroup";"";"All flights";"All arrivals and departures of airlines in commercial air traffic.";;;;;
+"8";"4";"7";"Topic";"TotalFlights_3";"Total flights";;;"Double";"number";"0";"Zero"
+"9";"5";"7";"Topic";"Scheduled_4";"Scheduled";;;"Double";"number";"0";"Zero"
+"10";"6";"7";"Topic";"NonScheduled_5";"Non-scheduled";;;"Double";"number";"0";"Zero"
+"11";;"6";"TopicGroup";"";"Arrivals";"All arrivals of airlines in commercial air traffic.";;;;;
+"12";"7";"11";"Topic";"TotalArrivalsFlights_6";"Total arrivals flights";;;"Double";"number";"0";"Zero"
+"13";"8";"11";"Topic";"Scheduled_7";"Scheduled";;;"Double";"number";"0";"Zero"
+"14";"9";"11";"Topic";"NonScheduled_8";"Non-scheduled";;;"Double";"number";"0";"Zero"
+"15";;"6";"TopicGroup";"";"Departures";"All departures of airlines in commercial air traffic.";;;;;
+"16";"10";"15";"Topic";"TotalDeparturesFlights_9";"Total departures flights";;;"Double";"number";"0";"Zero"
+"17";"11";"15";"Topic";"Scheduled_10";"Scheduled";;;"Double";"number";"0";"Zero"
+"18";"12";"15";"Topic";"NonScheduled_11";"Non-scheduled";;;"Double";"number";"0";"Zero"
+"19";;"5";"TopicGroup";"";"Passengers";"Transport of passengers in commercial air traffic. Also included are
+persons employed by airlines and passengers travelling on free tickets.
+Transit passengers (arriving and departing on the same aircraft) and
+passengers on taxi flights are not included.";;;;;
+"20";;"19";"TopicGroup";"";"Total passengers";"The total number of passengers arriving and departing in commercial
+air traffic.";;;;;
+"21";"13";"20";"Topic";"TotalPassengers_12";"Total passengers";;;"Double";"number";"0";"Zero"
+"22";"14";"20";"Topic";"Scheduled_13";"Scheduled";;;"Double";"number";"0";"Zero"
+"23";"15";"20";"Topic";"NonScheduled_14";"Non-scheduled";;;"Double";"number";"0";"Zero"
+"24";;"19";"TopicGroup";"";"Passenger arrivals";"The total number of passengers arriving in commercial air traffic.";;;;;
+"25";"16";"24";"Topic";"TotalArrivalsPassengers_15";"Total arrivals passengers";;;"Double";"number";"0";"Zero"
+"26";"17";"24";"Topic";"Scheduled_16";"Scheduled";;;"Double";"number";"0";"Zero"
+"27";"18";"24";"Topic";"NonScheduled_17";"Non-scheduled";;;"Double";"number";"0";"Zero"
+"28";;"19";"TopicGroup";"";"Passenger departures";"The total number of passengers departing in commercial air traffic.";;;;;
+"29";"19";"28";"Topic";"TotalDeparturesPassengers_18";"Total departures passengers";;;"Double";"number";"0";"Zero"
+"30";"20";"28";"Topic";"Scheduled_19";"Scheduled";;;"Double";"number";"0";"Zero"
+"31";"21";"28";"Topic";"NonScheduled_20";"Non-scheduled";;;"Double";"number";"0";"Zero"
+"32";;"19";"TopicGroup";"";"Country of origin/destination";"Origin/destination of the passengers is based on 'flight coupons',
+which state the airport (country) of origin and destination of the
+aircraft.";;;;;
+"33";"22";"32";"Topic";"TotalCountryOfOriginDestination_21";"Total country of origin/destination";;;"Double";"number";"0";"Zero"
+"34";;"32";"TopicGroup";"";"Europe";"Passengers to and from European airports.";;;;;
+"35";"23";"34";"Topic";"EuropeTotal_22";"Europe total";;;"Double";"number";"0";"Zero"
+"36";"24";"34";"Topic";"EUCountries_23";"EU countries";"Passengers to and from airports in the European Union (EU),  
+
+As of Februari 2020 the European Union consits of the following countries:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain amd Sweden.
+
+The figures of the United Kingdom are added to the figures of /""/Other Europe/""/,";;"Double";"number";"0";"Zero"
+"37";"25";"34";"Topic";"OtherEurope_24";"Other Europe";;;"Double";"number";"0";"Zero"
+"38";;"32";"TopicGroup";"";"Intercontinental";"Passengers to and from airports outside Europe, i.e. airports in
+Africa, America, Asia and Oceania.
+No detailed information by (sub)continent is available for
+Rotterdam Airport, Eindhoven Airport and Maastricht Aachen Airport for
+the period 1997-1999. Hence, the total exceeds the sum of the continents.";;;;;
+"39";"26";"38";"Topic";"TotalIntercontinentalPassengers_25";"Total intercontinental passengers";;;"Double";"number";"0";"Zero"
+"40";;"38";"TopicGroup";"";"Africa";"The number of air passengers to and from Africa.";;;;;
+"41";"27";"40";"Topic";"Africa_26";"Africa";;;"Double";"number";"0";"Zero"
+"42";"28";"40";"Topic";"NorthAfrica_27";"North Africa";;;"Double";"number";"0";"Zero"
+"43";"29";"40";"Topic";"WestAfrica_28";"West Africa";;;"Double";"number";"0";"Zero"
+"44";"30";"40";"Topic";"CentralAfrica_29";"Central Africa";;;"Double";"number";"0";"Zero"
+"45";"31";"40";"Topic";"EastAfrica_30";"East Africa";;;"Double";"number";"0";"Zero"
+"46";"32";"40";"Topic";"SouthAfrica_31";"South Africa";;;"Double";"number";"0";"Zero"
+"47";;"38";"TopicGroup";"";"America";"The number of air passengers to and from America.";;;;;
+"48";"33";"47";"Topic";"America_32";"America";;;"Double";"number";"0";"Zero"
+"49";"34";"47";"Topic";"NorthAmerica_33";"North America";;;"Double";"number";"0";"Zero"
+"50";"35";"47";"Topic";"CentralAmerica_34";"Central America";;;"Double";"number";"0";"Zero"
+"51";"36";"47";"Topic";"SouthAmerica_35";"South America";;;"Double";"number";"0";"Zero"
+"52";;"38";"TopicGroup";"";"Asia";"The number of air passengers to and from Asia.";;;;;
+"53";"37";"52";"Topic";"Asia_36";"Asia";;;"Double";"number";"0";"Zero"
+"54";"38";"52";"Topic";"WestAsia_37";"West Asia";;;"Double";"number";"0";"Zero"
+"55";"39";"52";"Topic";"SouthEastAsia_38";"South-East Asia";;;"Double";"number";"0";"Zero"
+"56";"40";"52";"Topic";"NorthEastAsia_39";"North-East Asia";;;"Double";"number";"0";"Zero"
+"57";"41";"38";"Topic";"Oceania_40";"Oceania";;;"Double";"number";"0";"Zero"
+"58";"42";"38";"Topic";"OtherUnknown_41";"Other/unknown";;;"Double";"number";"0";"Zero"
+"59";"43";"32";"Topic";"Unknown_42";"Unknown";;;"Double";"number";"0";"Zero"
+"60";;"5";"TopicGroup";"";"Cargo";"Transport of cargo in commercial air traffic, excluding mail and luggage.";;;;;
+"61";;"60";"TopicGroup";"";"Total cargo";"The total weight of cargo in commercial air traffic, loaded and unloaded
+at Dutch airports.";;;;;
+"62";"44";"61";"Topic";"TotalCargo_43";"Total cargo";;;"Double";"ton";"0";"Zero"
+"63";"45";"61";"Topic";"ScheduledCargo_44";"Scheduled cargo";;;"Double";"ton";"0";"Zero"
+"64";"46";"61";"Topic";"NonScheduledCargo_45";"Non-scheduled cargo";;;"Double";"ton";"0";"Zero"
+"65";;"60";"TopicGroup";"";"Unloaded cargo";"The total weight of cargo in commercial air traffic, unloaded at Dutch
+airports.";;;;;
+"66";"47";"65";"Topic";"TotalUnloadedCargo_46";"Total unloaded cargo";;;"Double";"ton";"0";"Zero"
+"67";"48";"65";"Topic";"ScheduledCargo_47";"Scheduled cargo";;;"Double";"ton";"0";"Zero"
+"68";"49";"65";"Topic";"NonScheduledCargo_48";"Non-scheduled cargo";;;"Double";"ton";"0";"Zero"
+"69";;"60";"TopicGroup";"";"Loaded cargo";"The total weight of cargo in commercial air traffic, loaded at Dutch
+airports.";;;;;
+"70";"50";"69";"Topic";"TotalLoadedCargo_49";"Total loaded cargo";;;"Double";"ton";"0";"Zero"
+"71";"51";"69";"Topic";"ScheduledCargo_50";"Scheduled cargo";;;"Double";"ton";"0";"Zero"
+"72";"52";"69";"Topic";"NonScheduledCargo_51";"Non-scheduled cargo";;;"Double";"ton";"0";"Zero"
+"73";;"60";"TopicGroup";"";"Country of origin/destination";"The weight of airlifted cargo by country of origin and destination.
+'Load sheets' provide information on the airports where cargo is
+loaded or unloaded.";;;;;
+"74";"53";"73";"Topic";"TotalCountryOfOriginDestination_52";"Total country of origin/destination";;;"Double";"ton";"0";"Zero"
+"75";;"73";"TopicGroup";"";"Europe cargo";"Cargo transport to and from European airports. No detailed
+information on Eindhoven Airport and Maastricht Aachen Airport is
+available for the period 1997-1999. Hence, the total exceeds the sum of
+the subgroups.";;;;;
+"76";"54";"75";"Topic";"EuropeTotalCargo_53";"Europe total cargo";;;"Double";"ton";"0";"Zero"
+"77";"55";"75";"Topic";"EUCountries_54";"EU countries";"Cargo to and from airports in the European Union (EU),
+
+As of Februari 2020 the European Union consits of the following countries:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain amd Sweden.
+
+The figures of the United Kingdom are added to the figures of /""/Other Europe/""/,";;"Double";"ton";"0";"Zero"
+"78";"56";"75";"Topic";"OtherEurope_55";"Other Europe";;;"Double";"ton";"0";"Zero"
+"79";;"73";"TopicGroup";"";"Intercontinental cargo";"Cargo transport to and from airports outside Europe, i.e. Africa,
+America, Asia and Oceania. No detailed
+information on Rotterdam Airport, Eindhoven Airport and Maastricht Aachen
+Airport is available for the period 1997-1999. Hence, the total exceeds
+the sum of the continents.";;;;;
+"80";"57";"79";"Topic";"TotalIntercontinentalCargo_56";"Total intercontinental cargo";;;"Double";"ton";"0";"Zero"
+"81";;"79";"TopicGroup";"";"Africa";"The total weight of cargo transports by air to and from Africa.";;;;;
+"82";"58";"81";"Topic";"Africa_57";"Africa";;;"Double";"ton";"0";"Zero"
+"83";"59";"81";"Topic";"NorthAfrica_58";"North Africa";;;"Double";"ton";"0";"Zero"
+"84";"60";"81";"Topic";"WestAfrica_59";"West Africa";;;"Double";"ton";"0";"Zero"
+"85";"61";"81";"Topic";"CentralAfrica_60";"Central Africa";;;"Double";"ton";"0";"Zero"
+"86";"62";"81";"Topic";"EastAfrica_61";"East Africa";;;"Double";"ton";"0";"Zero"
+"87";"63";"81";"Topic";"SouthAfrica_62";"South Africa";;;"Double";"ton";"0";"Zero"
+"88";;"79";"TopicGroup";"";"America";"The total weight of cargo transports by air to and from America.";;;;;
+"89";"64";"88";"Topic";"America_63";"America";;;"Double";"ton";"0";"Zero"
+"90";"65";"88";"Topic";"NorthAmerica_64";"North America";;;"Double";"ton";"0";"Zero"
+"91";"66";"88";"Topic";"CentralAmerica_65";"Central America";;;"Double";"ton";"0";"Zero"
+"92";"67";"88";"Topic";"SouthAmerica_66";"South America";;;"Double";"ton";"0";"Zero"
+"93";;"79";"TopicGroup";"";"Asia";"The total weight of cargo transports by air to and from Asia.";;;;;
+"94";"68";"93";"Topic";"Asia_67";"Asia";;;"Double";"ton";"0";"Zero"
+"95";"69";"93";"Topic";"WestAsia_68";"West Asia";;;"Double";"ton";"0";"Zero"
+"96";"70";"93";"Topic";"SouthEastAsia_69";"South-East Asia";;;"Double";"ton";"0";"Zero"
+"97";"71";"93";"Topic";"NorthEastAsia_70";"North-East Asia";;;"Double";"ton";"0";"Zero"
+"98";"72";"79";"Topic";"Oceania_71";"Oceania";;;"Double";"ton";"0";"Zero"
+"99";"73";"79";"Topic";"OtherUnknown_72";"Other/unknown";;;"Double";"ton";"0";"Zero"
+"100";"74";"73";"Topic";"Unknown_73";"Unknown";;;"Double";"ton";"0";"Zero"
+"101";;"5";"TopicGroup";"";"Mail";"The total weight of mail in commercial air traffic, loaded and unloaded
+at Dutch airports.";;;;;
+"102";;"101";"TopicGroup";"";"Total mail";"The total weight of mail in commercial air traffic, loaded and unloaded
+at Dutch airports.";;;;;
+"103";"75";"102";"Topic";"TotalMail_74";"Total mail";;;"Double";"ton";"0";"Zero"
+"104";"76";"102";"Topic";"ScheduledMail_75";"Scheduled mail";;;"Double";"ton";"0";"Zero"
+"105";"77";"102";"Topic";"NonScheduledCargoMail_76";"Non-scheduled cargo mail";;;"Double";"ton";"0";"Zero"
+"106";;"101";"TopicGroup";"";"Unloaded mail";"The total weight of mail in commercial air traffic, unloaded at Dutch
+airports.";;;;;
+"107";"78";"106";"Topic";"TotalUnloadedMail_77";"Total unloaded mail";;;"Double";"ton";"0";"Zero"
+"108";"79";"106";"Topic";"ScheduledMail_78";"Scheduled mail";;;"Double";"ton";"0";"Zero"
+"109";"80";"106";"Topic";"NonScheduledMail_79";"Non-scheduled mail";;;"Double";"ton";"0";"Zero"
+"110";;"101";"TopicGroup";"";"Loaded mail";"The total weight of mail in commercial air traffic, loaded at Dutch
+airports.";;;;;
+"111";"81";"110";"Topic";"TotalLoadedMail_80";"Total loaded mail";;;"Double";"ton";"0";"Zero"
+"112";"82";"110";"Topic";"ScheduledMail_81";"Scheduled mail";;;"Double";"ton";"0";"Zero"
+"113";"83";"110";"Topic";"NonScheduledMail_82";"Non-scheduled mail";;;"Double";"ton";"0";"Zero"
+"114";;"101";"TopicGroup";"";"Country of origin/destination mail";"The weight of airlifted mail by country of origin and destination.
+'Load sheets' provide information on the airports where mail is
+loaded or unloaded.";;;;;
+"115";"84";"114";"Topic";"TotalCountryOfOriginDestination_83";"Total country of origin/destination";;;"Double";"ton";"0";"Zero"
+"116";;"114";"TopicGroup";"";"Europe mail";"Mail transport to and from European airports.";;;;;
+"117";"85";"116";"Topic";"EuropeTotalMail_84";"Europe total mail";;;"Double";"ton";"0";"Zero"
+"118";"86";"116";"Topic";"EUCountries_85";"EU countries";"Mail to and from airports in the European Union (EU),
+
+As of Februari 2020 the European Union consits of the following countries:
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain amd Sweden.
+
+The figures of the United Kingdom are added to the figures of /""/Other Europe/""/,";;"Double";"ton";"0";"Zero"
+"119";"87";"116";"Topic";"OtherEurope_86";"Other Europe";;;"Double";"ton";"0";"Zero"
+"120";;"114";"TopicGroup";"";"Intercontinental mail";"Mail transport to and from airports outside Europe, i.e. Africa,
+America, Asia and Oceania.";;;;;
+"121";"88";"120";"Topic";"TotalIntercontinentalMail_87";"Total intercontinental mail";;;"Double";"ton";"0";"Zero"
+"122";;"120";"TopicGroup";"";"Africa";"The total weight of mail transports by air to and from Africa.";;;;;
+"123";"89";"122";"Topic";"Africa_88";"Africa";;;"Double";"ton";"0";"Zero"
+"124";"90";"122";"Topic";"NorthAfrica_89";"North Africa";;;"Double";"ton";"0";"Zero"
+"125";"91";"122";"Topic";"WestAfrica_90";"West Africa";;;"Double";"ton";"0";"Zero"
+"126";"92";"122";"Topic";"CentralAfrica_91";"Central Africa";;;"Double";"ton";"0";"Zero"
+"127";"93";"122";"Topic";"EastAfrica_92";"East Africa";;;"Double";"ton";"0";"Zero"
+"128";"94";"122";"Topic";"SouthAfrica_93";"South Africa";;;"Double";"ton";"0";"Zero"
+"129";;"120";"TopicGroup";"";"America";"The total weight of mail transports by air to and from America.";;;;;
+"130";"95";"129";"Topic";"America_94";"America";;;"Double";"ton";"0";"Zero"
+"131";"96";"129";"Topic";"NorthAmerica_95";"North America";;;"Double";"ton";"0";"Zero"
+"132";"97";"129";"Topic";"CentralAmerica_96";"Central America";;;"Double";"ton";"0";"Zero"
+"133";"98";"129";"Topic";"SouthAmerica_97";"South America";;;"Double";"ton";"0";"Zero"
+"134";;"120";"TopicGroup";"";"Asia";"The total weight of mail transports by air to and from Asia.";;;;;
+"135";"99";"134";"Topic";"Asia_98";"Asia";;;"Double";"ton";"0";"Zero"
+"136";"100";"134";"Topic";"WestAsia_99";"West Asia";;;"Double";"ton";"0";"Zero"
+"137";"101";"134";"Topic";"SouthEastAsia_100";"South-East Asia";;;"Double";"ton";"0";"Zero"
+"138";"102";"134";"Topic";"NorthEastAsia_101";"North-East Asia";;;"Double";"ton";"0";"Zero"
+"139";"103";"120";"Topic";"Oceania_102";"Oceania";;;"Double";"ton";"0";"Zero"
+"Airports"
+Key;Title;Description
+"A045844";"Total Dutch airports";"Contents: Amsterdam Airport Schiphol, Rotterdam The Hague Airport, Eindhoven Airport, Maastricht Aachen Airport, Groningen Airport Eelde."
+"A043590";"Amsterdam Airport Schiphol";""
+"A043596";"Rotterdam The Hague Airport";""
+"A043591";"Eindhoven Airport";""
+"A043595";"Maastricht Aachen Airport";""
+"A043593";"Groningen Airport Eelde";""
+"Periods"
+Key;Title;Description;Status
+"1997JJ00";"1997";;"Definitief"
+"1998JJ00";"1998";;"Definitief"
+"1999MM01";"1999 January";;"Definitief"
+"1999MM02";"1999 February";;"Definitief"
+"1999MM03";"1999 March";;"Definitief"
+"1999KW01";"1999 1st quarter";;"Definitief"
+"1999MM04";"1999 April";;"Definitief"
+"1999MM05";"1999 May";;"Definitief"
+"1999MM06";"1999 June";;"Definitief"
+"1999KW02";"1999 2nd quarter";;"Definitief"
+"1999MM07";"1999 July";;"Definitief"
+"1999MM08";"1999 August";;"Definitief"
+"1999MM09";"1999 September";;"Definitief"
+"1999KW03";"1999 3rd quarter";;"Definitief"
+"1999MM10";"1999 October";;"Definitief"
+"1999MM11";"1999 November";;"Definitief"
+"1999MM12";"1999 December";;"Definitief"
+"1999KW04";"1999 4th quarter";;"Definitief"
+"1999JJ00";"1999";;"Definitief"
+"2000MM01";"2000 January";;"Definitief"
+"2000MM02";"2000 February";;"Definitief"
+"2000MM03";"2000 March";;"Definitief"
+"2000KW01";"2000 1st quarter";;"Definitief"
+"2000MM04";"2000 April";;"Definitief"
+"2000MM05";"2000 May";;"Definitief"
+"2000MM06";"2000 June";;"Definitief"
+"2000KW02";"2000 2nd quarter";;"Definitief"
+"2000MM07";"2000 July";;"Definitief"
+"2000MM08";"2000 August";;"Definitief"
+"2000MM09";"2000 September";;"Definitief"
+"2000KW03";"2000 3rd quarter";;"Definitief"
+"2000MM10";"2000 October";;"Definitief"
+"2000MM11";"2000 November";;"Definitief"
+"2000MM12";"2000 December";;"Definitief"
+"2000KW04";"2000 4th quarter";;"Definitief"
+"2000JJ00";"2000";;"Definitief"
+"2001MM01";"2001 January";;"Definitief"
+"2001MM02";"2001 February";;"Definitief"
+"2001MM03";"2001 March";;"Definitief"
+"2001KW01";"2001 1st quarter";;"Definitief"
+"2001MM04";"2001 April";;"Definitief"
+"2001MM05";"2001 May";;"Definitief"
+"2001MM06";"2001 June";;"Definitief"
+"2001KW02";"2001 2nd quarter";;"Definitief"
+"2001MM07";"2001 July";;"Definitief"
+"2001MM08";"2001 August";;"Definitief"
+"2001MM09";"2001 September";;"Definitief"
+"2001KW03";"2001 3rd quarter";;"Definitief"
+"2001MM10";"2001 October";;"Definitief"
+"2001MM11";"2001 November";;"Definitief"
+"2001MM12";"2001 December";;"Definitief"
+"2001KW04";"2001 4th quarter";;"Definitief"
+"2001JJ00";"2001";;"Definitief"
+"2002MM01";"2002 January";;"Definitief"
+"2002MM02";"2002 February";;"Definitief"
+"2002MM03";"2002 March";;"Definitief"
+"2002KW01";"2002 1st quarter";;"Definitief"
+"2002MM04";"2002 April";;"Definitief"
+"2002MM05";"2002 May";;"Definitief"
+"2002MM06";"2002 June";;"Definitief"
+"2002KW02";"2002 2nd quarter";;"Definitief"
+"2002MM07";"2002 July";;"Definitief"
+"2002MM08";"2002 August";;"Definitief"
+"2002MM09";"2002 September";;"Definitief"
+"2002KW03";"2002 3rd quarter";;"Definitief"
+"2002MM10";"2002 October";;"Definitief"
+"2002MM11";"2002 November";;"Definitief"
+"2002MM12";"2002 December";;"Definitief"
+"2002KW04";"2002 4th quarter";;"Definitief"
+"2002JJ00";"2002";;"Definitief"
+"2003MM01";"2003 January";;"Definitief"
+"2003MM02";"2003 February";;"Definitief"
+"2003MM03";"2003 March";;"Definitief"
+"2003KW01";"2003 1st quarter";;"Definitief"
+"2003MM04";"2003 April";;"Definitief"
+"2003MM05";"2003 May";;"Definitief"
+"2003MM06";"2003 June";;"Definitief"
+"2003KW02";"2003 2nd quarter";;"Definitief"
+"2003MM07";"2003 July";;"Definitief"
+"2003MM08";"2003 August";;"Definitief"
+"2003MM09";"2003 September";;"Definitief"
+"2003KW03";"2003 3rd quarter";;"Definitief"
+"2003MM10";"2003 October";;"Definitief"
+"2003MM11";"2003 November";;"Definitief"
+"2003MM12";"2003 December";;"Definitief"
+"2003KW04";"2003 4th quarter";;"Definitief"
+"2003JJ00";"2003";;"Definitief"
+"2004MM01";"2004 January";;"Definitief"
+"2004MM02";"2004 February";;"Definitief"
+"2004MM03";"2004 March";;"Definitief"
+"2004KW01";"2004 1st quarter";;"Definitief"
+"2004MM04";"2004 April";;"Definitief"
+"2004MM05";"2004 May";;"Definitief"
+"2004MM06";"2004 June";;"Definitief"
+"2004KW02";"2004 2nd quarter";;"Definitief"
+"2004MM07";"2004 July";;"Definitief"
+"2004MM08";"2004 August";;"Definitief"
+"2004MM09";"2004 September";;"Definitief"
+"2004KW03";"2004 3rd quarter";;"Definitief"
+"2004MM10";"2004 October";;"Definitief"
+"2004MM11";"2004 November";;"Definitief"
+"2004MM12";"2004 December";;"Definitief"
+"2004KW04";"2004 4th quarter";;"Definitief"
+"2004JJ00";"2004";;"Definitief"
+"2005MM01";"2005 January";;"Definitief"
+"2005MM02";"2005 February";;"Definitief"
+"2005MM03";"2005 March";;"Definitief"
+"2005KW01";"2005 1st quarter";;"Definitief"
+"2005MM04";"2005 April";;"Definitief"
+"2005MM05";"2005 May";;"Definitief"
+"2005MM06";"2005 June";;"Definitief"
+"2005KW02";"2005 2nd quarter";;"Definitief"
+"2005MM07";"2005 July";;"Definitief"
+"2005MM08";"2005 August";;"Definitief"
+"2005MM09";"2005 September";;"Definitief"
+"2005KW03";"2005 3rd quarter";;"Definitief"
+"2005MM10";"2005 October";;"Definitief"
+"2005MM11";"2005 November";;"Definitief"
+"2005MM12";"2005 December";;"Definitief"
+"2005KW04";"2005 4th quarter";;"Definitief"
+"2005JJ00";"2005";;"Definitief"
+"2006MM01";"2006 January";;"Definitief"
+"2006MM02";"2006 February";;"Definitief"
+"2006MM03";"2006 March";;"Definitief"
+"2006KW01";"2006 1st quarter";;"Definitief"
+"2006MM04";"2006 April";;"Definitief"
+"2006MM05";"2006 May";;"Definitief"
+"2006MM06";"2006 June";;"Definitief"
+"2006KW02";"2006 2nd quarter";;"Definitief"
+"2006MM07";"2006 July";;"Definitief"
+"2006MM08";"2006 August";;"Definitief"
+"2006MM09";"2006 September";;"Definitief"
+"2006KW03";"2006 3rd quarter";;"Definitief"
+"2006MM10";"2006 October";;"Definitief"
+"2006MM11";"2006 November";;"Definitief"
+"2006MM12";"2006 December";;"Definitief"
+"2006KW04";"2006 4th quarter";;"Definitief"
+"2006JJ00";"2006";;"Definitief"
+"2007MM01";"2007 January";;"Definitief"
+"2007MM02";"2007 February";;"Definitief"
+"2007MM03";"2007 March";;"Definitief"
+"2007KW01";"2007 1st quarter";;"Definitief"
+"2007MM04";"2007 April";;"Definitief"
+"2007MM05";"2007 May";;"Definitief"
+"2007MM06";"2007 June";;"Definitief"
+"2007KW02";"2007 2nd quarter";;"Definitief"
+"2007MM07";"2007 July";;"Definitief"
+"2007MM08";"2007 August";;"Definitief"
+"2007MM09";"2007 September";;"Definitief"
+"2007KW03";"2007 3rd quarter";;"Definitief"
+"2007MM10";"2007 October";;"Definitief"
+"2007MM11";"2007 November";;"Definitief"
+"2007MM12";"2007 December";;"Definitief"
+"2007KW04";"2007 4th quarter";;"Definitief"
+"2007JJ00";"2007";;"Definitief"
+"2008MM01";"2008 January";;"Definitief"
+"2008MM02";"2008 February";;"Definitief"
+"2008MM03";"2008 March";;"Definitief"
+"2008KW01";"2008 1st quarter";;"Definitief"
+"2008MM04";"2008 April";;"Definitief"
+"2008MM05";"2008 May";;"Definitief"
+"2008MM06";"2008 June";;"Definitief"
+"2008KW02";"2008 2nd quarter";;"Definitief"
+"2008MM07";"2008 July";;"Definitief"
+"2008MM08";"2008 August";;"Definitief"
+"2008MM09";"2008 September";;"Definitief"
+"2008KW03";"2008 3rd quarter";;"Definitief"
+"2008MM10";"2008 October";;"Definitief"
+"2008MM11";"2008 November";;"Definitief"
+"2008MM12";"2008 December";;"Definitief"
+"2008KW04";"2008 4th quarter";;"Definitief"
+"2008JJ00";"2008";;"Definitief"
+"2009MM01";"2009 January";;"Definitief"
+"2009MM02";"2009 February";;"Definitief"
+"2009MM03";"2009 March";;"Definitief"
+"2009KW01";"2009 1st quarter";;"Definitief"
+"2009MM04";"2009 April";;"Definitief"
+"2009MM05";"2009 May";;"Definitief"
+"2009MM06";"2009 June";;"Definitief"
+"2009KW02";"2009 2nd quarter";;"Definitief"
+"2009MM07";"2009 July";;"Definitief"
+"2009MM08";"2009 August";;"Definitief"
+"2009MM09";"2009 September";;"Definitief"
+"2009KW03";"2009 3rd quarter";;"Definitief"
+"2009MM10";"2009 October";;"Definitief"
+"2009MM11";"2009 November";;"Definitief"
+"2009MM12";"2009 December";;"Definitief"
+"2009KW04";"2009 4th quarter";;"Definitief"
+"2009JJ00";"2009";;"Definitief"
+"2010MM01";"2010 January";;"Definitief"
+"2010MM02";"2010 February";;"Definitief"
+"2010MM03";"2010 March";;"Definitief"
+"2010KW01";"2010 1st quarter";;"Definitief"
+"2010MM04";"2010 April";;"Definitief"
+"2010MM05";"2010 May";;"Definitief"
+"2010MM06";"2010 June";;"Definitief"
+"2010KW02";"2010 2nd quarter";;"Definitief"
+"2010MM07";"2010 July";;"Definitief"
+"2010MM08";"2010 August";;"Definitief"
+"2010MM09";"2010 September";;"Definitief"
+"2010KW03";"2010 3rd quarter";;"Definitief"
+"2010MM10";"2010 October";;"Definitief"
+"2010MM11";"2010 November";;"Definitief"
+"2010MM12";"2010 December";;"Definitief"
+"2010KW04";"2010 4th quarter";;"Definitief"
+"2010JJ00";"2010";;"Definitief"
+"2011MM01";"2011 January";"";"Definitief"
+"2011MM02";"2011 February";"";"Definitief"
+"2011MM03";"2011 March";"";"Definitief"
+"2011KW01";"2011 1st quarter";"";"Definitief"
+"2011MM04";"2011 April";"";"Definitief"
+"2011MM05";"2011 May";"";"Definitief"
+"2011MM06";"2011 June";"";"Definitief"
+"2011KW02";"2011 2nd quarter";"";"Definitief"
+"2011MM07";"2011 July";"";"Definitief"
+"2011MM08";"2011 August";"";"Definitief"
+"2011MM09";"2011 September";"";"Definitief"
+"2011KW03";"2011 3rd quarter";"";"Definitief"
+"2011MM10";"2011 October";"";"Definitief"
+"2011MM11";"2011 November";"";"Definitief"
+"2011MM12";"2011 December";"";"Definitief"
+"2011KW04";"2011 4th quarter";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012MM01";"2012 January";"";"Definitief"
+"2012MM02";"2012 February";"";"Definitief"
+"2012MM03";"2012 March";"";"Definitief"
+"2012KW01";"2012 1st quarter";"";"Definitief"
+"2012MM04";"2012 April";"";"Definitief"
+"2012MM05";"2012 May";"";"Definitief"
+"2012MM06";"2012 June";"";"Definitief"
+"2012KW02";"2012 2nd quarter";"";"Definitief"
+"2012MM07";"2012 July";"";"Definitief"
+"2012MM08";"2012 August";"";"Definitief"
+"2012MM09";"2012 September";"";"Definitief"
+"2012KW03";"2012 3rd quarter";"";"Definitief"
+"2012MM10";"2012 October";"";"Definitief"
+"2012MM11";"2012 November";"";"Definitief"
+"2012MM12";"2012 December";"";"Definitief"
+"2012KW04";"2012 4th quarter";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013MM01";"2013 January";"";"Definitief"
+"2013MM02";"2013 February";"";"Definitief"
+"2013MM03";"2013 March";"";"Definitief"
+"2013KW01";"2013 1st quarter";"";"Definitief"
+"2013MM04";"2013 April";"";"Definitief"
+"2013MM05";"2013 May";"";"Definitief"
+"2013MM06";"2013 June";"";"Definitief"
+"2013KW02";"2013 2nd quarter";"";"Definitief"
+"2013MM07";"2013 July";"";"Definitief"
+"2013MM08";"2013 August";"";"Definitief"
+"2013MM09";"2013 September";"";"Definitief"
+"2013KW03";"2013 3rd quarter";"";"Definitief"
+"2013MM10";"2013 October";"";"Definitief"
+"2013MM11";"2013 November";"";"Definitief"
+"2013MM12";"2013 December";"";"Definitief"
+"2013KW04";"2013 4th quarter";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014MM01";"2014 January";"";"Definitief"
+"2014MM02";"2014 February";"";"Definitief"
+"2014MM03";"2014 March";"";"Definitief"
+"2014KW01";"2014 1st quarter";"";"Definitief"
+"2014MM04";"2014 April";"";"Definitief"
+"2014MM05";"2014 May";"";"Definitief"
+"2014MM06";"2014 June";"";"Definitief"
+"2014KW02";"2014 2nd quarter";"";"Definitief"
+"2014MM07";"2014 July";"";"Definitief"
+"2014MM08";"2014 August";"";"Definitief"
+"2014MM09";"2014 September";"";"Definitief"
+"2014KW03";"2014 3rd quarter";"";"Definitief"
+"2014MM10";"2014 October";"";"Definitief"
+"2014MM11";"2014 November";"";"Definitief"
+"2014MM12";"2014 December";"";"Definitief"
+"2014KW04";"2014 4th quarter";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015MM01";"2015 January";"";"Definitief"
+"2015MM02";"2015 February";"";"Definitief"
+"2015MM03";"2015 March";"";"Definitief"
+"2015KW01";"2015 1st quarter";"";"Definitief"
+"2015MM04";"2015 April";"";"Definitief"
+"2015MM05";"2015 May";"";"Definitief"
+"2015MM06";"2015 June";"";"Definitief"
+"2015KW02";"2015 2nd quarter";"";"Definitief"
+"2015MM07";"2015 July";"";"Definitief"
+"2015MM08";"2015 August";"";"Definitief"
+"2015MM09";"2015 September";"";"Definitief"
+"2015KW03";"2015 3rd quarter";"";"Definitief"
+"2015MM10";"2015 October";"";"Definitief"
+"2015MM11";"2015 November";"";"Definitief"
+"2015MM12";"2015 December";"";"Definitief"
+"2015KW04";"2015 4th quarter";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016MM01";"2016 January";"";"Definitief"
+"2016MM02";"2016 February";"";"Definitief"
+"2016MM03";"2016 March";"";"Definitief"
+"2016KW01";"2016 1st quarter";"";"Definitief"
+"2016MM04";"2016 April";"";"Definitief"
+"2016MM05";"2016 May";"";"Definitief"
+"2016MM06";"2016 June";"";"Definitief"
+"2016KW02";"2016 2nd quarter";"";"Definitief"
+"2016MM07";"2016 July";"";"Definitief"
+"2016MM08";"2016 August";"";"Definitief"
+"2016MM09";"2016 September";"";"Definitief"
+"2016KW03";"2016 3rd quarter";"";"Definitief"
+"2016MM10";"2016 October";"";"Definitief"
+"2016MM11";"2016 November";"";"Definitief"
+"2016MM12";"2016 December";"";"Definitief"
+"2016KW04";"2016 4th quarter";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017MM01";"2017 January";"";"Definitief"
+"2017MM02";"2017 February";"";"Definitief"
+"2017MM03";"2017 March";"";"Definitief"
+"2017KW01";"2017 1st quarter";"";"Definitief"
+"2017MM04";"2017 April";"";"Definitief"
+"2017MM05";"2017 May";"";"Definitief"
+"2017MM06";"2017 June";"";"Definitief"
+"2017KW02";"2017 2nd quarter";"";"Definitief"
+"2017MM07";"2017 July";"";"Definitief"
+"2017MM08";"2017 August";"";"Definitief"
+"2017MM09";"2017 September";"";"Definitief"
+"2017KW03";"2017 3rd quarter";"";"Definitief"
+"2017MM10";"2017 October";"";"Definitief"
+"2017MM11";"2017 November";"";"Definitief"
+"2017MM12";"2017 December";"";"Definitief"
+"2017KW04";"2017 4th quarter";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018MM01";"2018 January";"";"Definitief"
+"2018MM02";"2018 February";"";"Definitief"
+"2018MM03";"2018 March";"";"Definitief"
+"2018KW01";"2018 1st quarter";"";"Definitief"
+"2018MM04";"2018 April";"";"Definitief"
+"2018MM05";"2018 May";"";"Definitief"
+"2018MM06";"2018 June";"";"Definitief"
+"2018KW02";"2018 2nd quarter";"";"Definitief"
+"2018MM07";"2018 July";"";"Definitief"
+"2018MM08";"2018 August";"";"Definitief"
+"2018MM09";"2018 September";"";"Definitief"
+"2018KW03";"2018 3rd quarter";"";"Definitief"
+"2018MM10";"2018 October";"";"Definitief"
+"2018MM11";"2018 November";"";"Definitief"
+"2018MM12";"2018 December";"";"Definitief"
+"2018KW04";"2018 4th quarter";"";"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019MM01";"2019 January";"";"Definitief"
+"2019MM02";"2019 February";;"Definitief"
+"2019MM03";"2019 March";"";"Definitief"
+"2019KW01";"2019 1st quarter";"";"Definitief"
+"2019MM04";"2019 April";"";"Definitief"
+"2019MM05";"2019 May";"";"Definitief"
+"2019MM06";"2019 June";"";"Definitief"
+"2019KW02";"2019 2nd quarter";"";"Definitief"
+"2019MM07";"2019 July";"";"Definitief"
+"2019MM08";"2019 August";"";"Definitief"
+"2019MM09";"2019 September";"";"Definitief"
+"2019KW03";"2019 3rd quarter";"";"Definitief"
+"2019MM10";"2019 October";"";"Definitief"
+"2019MM11";"2019 November";"";"Definitief"
+"2019MM12";"2019 December";"";"Definitief"
+"2019KW04";"2019 4th quarter";"";"Definitief"
+"2019JJ00";"2019";"";"Definitief"
+"2020MM01";"2020 January";"";"Definitief"
+"2020MM02";"2020 February";"";"Definitief"
+"2020MM03";"2020 March";"";"Definitief"
+"2020KW01";"2020 1st quarter";"";"Definitief"
+"2020MM04";"2020 April";"";"Definitief"
+"2020MM05";"2020 May";"";"Definitief"
+"2020MM06";"2020 June";"";"Definitief"
+"2020KW02";"2020 2nd quarter";"";"Definitief"
+"2020MM07";"2020 July";"";"Definitief"
+"2020MM08";"2020 August";"";"Definitief"
+"2020MM09";"2020 September";"";"Definitief"
+"2020KW03";"2020 3rd quarter";"";"Definitief"
+"2020MM10";"2020 October";"";"Definitief"
+"2020MM11";"2020 November";"";"Definitief"
+"2020MM12";"2020 December";"";"Definitief"
+"2020KW04";"2020 4th quarter";"";"Definitief"
+"2020JJ00";"2020";"";"Definitief"
+"2021MM01";"2021 January";"";"Definitief"
+"2021MM02";"2021 February";"";"Definitief"
+"2021MM03";"2021 March";"";"Definitief"
+"2021KW01";"2021 1st quarter";"";"Definitief"
+"2021MM04";"2021 April";"";"Definitief"
+"2021MM05";"2021 May";"";"Definitief"
+"2021MM06";"2021 June";"";"Definitief"
+"2021KW02";"2021 2nd quarter";"";"Definitief"
+"2021MM07";"2021 July";"";"Definitief"
+"2021MM08";"2021 August";"";"Definitief"
+"2021MM09";"2021 September";"";"Definitief"
+"2021KW03";"2021 3rd quarter";"";"Definitief"
+"2021MM10";"2021 October";"";"Definitief"
+"2021MM11";"2021 November";"";"Definitief"
+"2021MM12";"2021 December";"";"Definitief"
+"2021KW04";"2021 4th quarter";"";"Definitief"
+"2021JJ00";"2021";"";"Definitief"
+"2022MM01";"2022 January";"Provisional figures";"Voorlopig"
+"2022MM02";"2022 February";"Provisional figures";"Voorlopig"
+"2022MM03";"2022 March";"Provisional figures";"Voorlopig"
+"2022KW01";"2022 1st quarter";"Provisional figures";"Voorlopig"
+"2022MM04";"2022 April";"Provisional figures";"Voorlopig"
+"2022MM05";"2022 May";"Provisional figures";"Voorlopig"
+"2022MM06";"2022 June";"Provisional figures";"Voorlopig"
+"2022KW02";"2022 2nd quarter";"Provisional figures";"Voorlopig"
+"2022MM07";"2022 July";"Provisional figures";"Voorlopig"
+"2022MM08";"2022 August";"Provisional figures";"Voorlopig"
+"2022MM09";"2022 September";"Provisional figures";"Voorlopig"
+"2022KW03";"2022 3rd quarter";"Provisional figures";"Voorlopig"
+"2022MM10";"2022 October";"Provisional figures";"Voorlopig"
+"2022MM11";"2022 November";"Provisional figures";"Voorlopig"
+"2022MM12";"2022 December";"Provisional figures";"Voorlopig"
+"2022KW04";"2022 4th quarter";"Provisional figures";"Voorlopig"
+"2022JJ00";"2022";"Provisional figures";"Voorlopig"
+"2023MM01";"2023 January";"Provisional figures";"Voorlopig"
+"2023MM02";"2023 February";"Provisional figures";"Voorlopig"
+"2023MM03";"2023 March";"Provisional figures";"Voorlopig"
+"2023KW01";"2023 1st quarter";"Provisional figures";"Voorlopig"
+"2023MM04";"2023 April";"Provisional figures";"Voorlopig"
+"2023MM05";"2023 May";"Provisional figures";"Voorlopig"
+"2023MM06";"2023 June";"Provisional figures";"Voorlopig"
+"2023KW02";"2023 2nd quarter";"Provisional figures";"Voorlopig"
+"2023MM07";"2023 July";"Provisional figures";"Voorlopig"
+"2023MM08";"2023 August";"Provisional figures";"Voorlopig"
