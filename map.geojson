@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "West Africa"
+            },
+            "geometry": {
+                "coordinates": [
+                    2.146275548596094,
+                    7.3758383124257705
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Central Africa"
+            },
+            "geometry": {
+                "coordinates": [
+                    24.858211716615102,
+                    5.941097261005979
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "EU Countries"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.13314170741873,
+                    49.083552264323004
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Other Europe"
+            },
+            "geometry": {
+                "coordinates": [
+                    28.890382822253002,
+                    50.392500708553484
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "North Africa"
+            },
+            "geometry": {
+                "coordinates": [
+                    12.050981382659614,
+                    27.123260711131422
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "East Africa"
+            },
+            "geometry": {
+                "coordinates": [
+                    45.672535115374046,
+                    3.078833474429942
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "South Africa"
+            },
+            "geometry": {
+                "coordinates": [
+                    24.597326939956588,
+                    -18.93433671054143
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "North America"
+            },
+            "geometry": {
+                "coordinates": [
+                    -98.60011495170049,
+                    38.88429256955939
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Central America"
+            },
+            "geometry": {
+                "coordinates": [
+                    -84.59017999315847,
+                    15.310897131555024
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "South America"
+            },
+            "geometry": {
+                "coordinates": [
+                    -58.58467440961661,
+                    -15.973356520890846
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "West Asia"
+            },
+            "geometry": {
+                "coordinates": [
+                    48.19366624546609,
+                    32.10339189426378
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "South East Asia"
+            },
+            "geometry": {
+                "coordinates": [
+                    96.88559170748965,
+                    18.01513932933716
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "North East Asia"
+            },
+            "geometry": {
+                "coordinates": [
+                    127.36126891593938,
+                    37.28299592055711
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Oceania"
+            },
+            "geometry": {
+                "coordinates": [
+                    138.04806588341614,
+                    -25.78113478758314
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
